@@ -1,0 +1,8 @@
+psycopg2==2.9.6
+psycopg2-binary==2.9.6
+Django
+gunicorn
+Pillow
+whitenoise
+coreapi
+dj-database-url
