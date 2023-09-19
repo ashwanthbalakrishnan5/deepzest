@@ -1,1 +1,1 @@
-web: gunicorn tfoi.wsgi:application
+web: gunicorn deepzest.wsgi:application
